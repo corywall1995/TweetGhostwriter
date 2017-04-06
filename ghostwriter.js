@@ -1,6 +1,6 @@
 function writeTweet()
 {
-  console.log("in writeTweet");
+//  console.log("in writeTweet");
   var randIndex, sentence;
   var intro = ["Have you ever noticed", "It's funny how", "Why is it okay that", "Why is it that"];
   var body = ["the government", "the weather", "cafeteria food", "Chico State", "your cellphone", "your mom"];
